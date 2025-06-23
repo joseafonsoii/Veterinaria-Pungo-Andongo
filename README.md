@@ -44,7 +44,7 @@ Este projeto foi desenvolvido como parte da disciplina de **Programação Orient
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/joseafonsoii/Pungo-Andongo.git
 ````
 
 2. Compile os arquivos `.java`:
