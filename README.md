@@ -45,3 +45,32 @@ Este projeto foi desenvolvido como parte da disciplina de **Programação Orient
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+````
+
+2. Compile os arquivos `.java`:
+
+   ```bash
+   javac *.java
+   ```
+3. Execute a classe `Menu`:
+
+   ```bash
+   java Menu
+   ```
+
+## ⚠️ Observações
+
+* Os dados inseridos são salvos em arquivos `.txt` na mesma pasta do projeto.
+* IDs são gerados automaticamente com base na quantidade de registros.
+
+## 📚 Autor
+
+* Nome: **José António Afonso**
+* Curso: Ciência da Computação / Engenharia Informática
+* Ano: 2024–2025
+* Disciplina: Programação Orientada a Objetos (POO)
+
+---
+
+```
+
