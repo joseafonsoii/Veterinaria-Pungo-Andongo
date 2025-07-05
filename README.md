@@ -66,7 +66,8 @@ Este projeto foi desenvolvido como parte da disciplina de **Programação Orient
 ## 📚 Autor
 
 * Nome: **José António Afonso**
-* Curso: Ciência da Computação / Engenharia Informática
+* Instituição: Universidade Agostinho Neto
+* Curso: Ciência da Computação 
 * Ano: 2024–2025
 * Disciplina: Programação Orientada a Objetos (POO)
 
